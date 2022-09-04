@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2c2a4ce3dc0c874eac26cd1301e14df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - raycastManager: {instanceID: 0}
+  - planeManager: {instanceID: 0}
+  - alvo: {fileID: 6230328121139481741, guid: 8b9cdaeb0424e5d41b80290b05ce2ab7, type: 3}
+  - alvoErrado: {fileID: 7796664813226934129, guid: fbf27499bdf1f434cbc3c1b56123661b,
+      type: 3}
+  - msg: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
